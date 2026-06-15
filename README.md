@@ -4,7 +4,7 @@ Documenting my Solidity and smart contract learning journey.
 
 ## Progress
 | Contract | Concepts Covered |
-| SimpleStorage.sol | Basic variable types |
+-| SimpleStorage.sol | Basic variable types |
 
 ## Topics Being Learned
 - Solidity basics
